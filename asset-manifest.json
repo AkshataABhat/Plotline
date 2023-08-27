@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Plotline/static/css/main.f810fdb7.css",
+    "main.js": "/Plotline/static/js/main.d7618e1a.js",
+    "static/js/787.7e25bc51.chunk.js": "/Plotline/static/js/787.7e25bc51.chunk.js",
+    "index.html": "/Plotline/index.html",
+    "main.f810fdb7.css.map": "/Plotline/static/css/main.f810fdb7.css.map",
+    "main.d7618e1a.js.map": "/Plotline/static/js/main.d7618e1a.js.map",
+    "787.7e25bc51.chunk.js.map": "/Plotline/static/js/787.7e25bc51.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f810fdb7.css",
+    "static/js/main.d7618e1a.js"
+  ]
+}
