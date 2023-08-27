@@ -89,7 +89,7 @@ function App() {
             </div>
             <div>
               <label className='bold' htmlFor='padding'>
-                Padding 
+                Padding: 
               </label>
               <br />
               <input
